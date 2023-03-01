@@ -163,7 +163,7 @@ SubmitKey.MouseButton1Down:connect(function()
         KeySystem.Visible = false
 
         ------ Script Here ---------
-        coolcow12136
+
         game.StarterGui:SetCore("SendNotification", {
             Title = "Creator"; -- the title (ofc)
             Text = "Made By : cool cow / stick cow#5297"; -- what the text says (ofc)
